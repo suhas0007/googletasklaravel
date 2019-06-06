@@ -1,0 +1,238 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"category",
+				"Category_post"
+			],
+			[
+				"new",
+				"newcontact"
+			],
+			[
+				"C",
+				"Category"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"tim",
+				"timestamps"
+			],
+			[
+				"boo",
+				"boolean"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/loginform/resources/views/layouts/app.blade.php",
+		"/var/www/html/loginform/resources/views/about.blade.php",
+		"/var/www/html/loginform/app/Http/Controllers/Auth/LoginController.php",
+		"/var/www/html/loginform/resources/views/welcome.blade.php",
+		"/var/www/html/loginform/app/Http/Controllers/Auth/VerificationController.php",
+		"/var/www/html/loginform/app/Http/Middleware/Authenticate.php",
+		"/var/www/html/loginform/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/var/www/html/loginform/app/Http/Controllers/PostController.php",
+		"/var/www/html/loginform/app/Http/Kernel.php",
+		"/var/www/html/loginform/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/var/www/html/loginform/database/migrations/2019_05_27_161918_create_users.php",
+		"/var/www/html/blog/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/var/www/html/loginform/.env",
+		"/var/www/html/blog/.env",
+		"/var/www/html/loginform/resources/views/inc/header.blade.php",
+		"/var/www/html/loginform/resources/views/footer.blade.php",
+		"/var/www/html/loginform/resources/views/form.blade.php",
+		"/var/www/html/blog/resources/views/contact.blade.php",
+		"/var/www/html/blog/app/Http/Controllers/ContactController.php",
+		"/var/www/html/blog/app/Contact.php",
+		"/var/www/html/blog/resources/views/welcome.blade.php",
+		"/var/www/html/blog/routes/web.php",
+		"/var/www/html/blog/app/Http/Controllers/HomeController.php",
+		"/var/www/html/blog/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php",
+		"/var/www/html/blog/app/Http/Controllers/PostController.php",
+		"/var/www/html/blog/app/Posts.php",
+		"/var/www/html/blog/public/css/style.css",
+		"/var/www/html/blog/resources/views/inc/header.blade.php",
+		"/var/www/html/blog/resources/views/inc/footer.blade.php",
+		"/var/www/html/blog/resources/views/about.blade.php",
+		"/var/www/html/blog/app/Category.php",
+		"/var/www/html/blog/database/migrations/2019_05_03_145406_create_contacts.php",
+		"/home/harsha/Downloads/startbootstrap-blog-home-gh-pages/vendor/bootstrap/css/bootstrap.min.css",
+		"/home/harsha/Downloads/startbootstrap-blog-home-gh-pages/vendor/jquery/jquery.min.js",
+		"/home/harsha/Downloads/startbootstrap-blog-home-gh-pages/vendor/bootstrap/js/bootstrap.bundle.js",
+		"/home/harsha/Downloads/index.html",
+		"/home/harsha/Downloads/startbootstrap-blog-home-gh-pages/index.html",
+		"/home/harsha/Downloads/startbootstrap-blog-home-gh-pages/css/blog-home.css",
+		"/var/www/html/blog/resources/views/inc/header.php",
+		"/var/www/html/blog/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php",
+		"/var/www/html/blog/database/migrations/2019_04_26_115210_create_category.php",
+		"/var/www/html/test/README.md",
+		"/var/www/html/blog/database/migrations/2019_04_26_131702_create_posts.php",
+		"/var/www/html/blog/database/migrations/2019_04_26_125307_create_subcategory.php",
+		"/var/www/html/blog/database/migrations/2019_04_26_133255_create_tag_meta.php",
+		"/var/www/html/blog/database/migrations/2019_04_26_133443_create_post_tags.php",
+		"/var/www/html/blog/database/migrations/2019_04_26_135944_create_comments.php",
+		"/var/www/html/blog/database/migrations/2019_04_26_121246_create_suubcategory.php",
+		"/var/www/html/blog/database/migrations/2019_04_26_114745_category.php",
+		"/var/www/html/info.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "web.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 415.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
